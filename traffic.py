@@ -1,3 +1,6 @@
+# importing pygame, make sure to download pygame
+# Goto CMD, --> pip install pygame(Run as administrator)
+
 import pygame
 
 pygame.init()
