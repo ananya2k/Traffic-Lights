@@ -3,6 +3,7 @@
 
 import pygame
 
+# initializing pygame
 pygame.init()
 
 # make the window
